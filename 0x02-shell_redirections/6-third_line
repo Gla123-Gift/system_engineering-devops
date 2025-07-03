@@ -1,2 +1,2 @@
 #!/bin/bash
-read; read; read line < iacta && echo "$line"
+cat -n 3  iacta
