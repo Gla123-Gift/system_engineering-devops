@@ -1,0 +1,3 @@
+#!/bin/bash
+# Adding a directory to $PATH
+export PATH=$PATH:/action
